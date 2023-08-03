@@ -75,7 +75,7 @@ svg{
 }
 .firstimg{
     
-    background-image: url("first.jpg");
+    background-image: url("images/first.jpg");
     position: relative;
     background-position: center center;
     background-repeat: no-repeat;
@@ -89,7 +89,7 @@ svg{
 }
 .secondimg {
 
-    background-image: url("second.jpg");
+    background-image: url("images/second.jpg");
     position: relative;
     background-position: center center;
     background-repeat: no-repeat;
@@ -103,7 +103,7 @@ svg{
 }
 .thirdimg {
 
-    background-image: url("third.jpg");
+    background-image: url("images/third.jpg");
     position: relative;
     background-position: center center;
     background-repeat: no-repeat;
@@ -117,7 +117,7 @@ svg{
 }
 .lastimg {
 
-    background-image: url("last.jpg");
+    background-image: url("images/last.jpg");
     position: relative;
     background-position: center center;
     background-repeat: no-repeat;
